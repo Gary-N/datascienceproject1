@@ -1,4 +1,4 @@
-House Price Prediction
+House Prices Prediction
 ----------------------
 
 In this project, I predicted house prices in Ames, United States, given data on 2919 houses in the city. This data comprises of 79 different variables, from the overall quality to the type of roof material. With 1460 of these properties' sale price known, the goal was to predict the other 1459 prices. 
